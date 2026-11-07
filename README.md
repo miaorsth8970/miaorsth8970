@@ -1,15 +1,21 @@
 <h3 align="center">
-  <img src="https://i.pinimg.com/736x/f5/2a/0d/f52a0df39cfcfc4cd08ba196507888ed.jpg" width="30">
+  <img src="https://i.pinimg.com/736x/f1/7b/cf/f17bcfb0f4552d8ddc408b1bd4928350.jpg" width="30">
   <code>. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.</code>
+<img src="https://i.pinimg.com/736x/f5/2a/0d/f52a0df39cfcfc4cd08ba196507888ed.jpg" width="30">
 </h3>
+
+
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/ff/40/ca/ff40ca70d10b89a08a2901868487d3ab.jpg" width="100%">
 </p>
 
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Tangerine&size=55&duration=3500&pause=1200&color=83C0DF&center=true&vCenter=true&repeat=true&width=900&lines=past+or+future%2C+let+them+be" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Tangerine&size=55&weight=700&duration=3500&pause=1200&color=83C0DF&center=true&vCenter=true&repeat=true&width=900&lines=%E2%8B%86.%CB%9A+past+or+future%2C+let+them+be+%E2%8B%86%CB%9A%E0%BF%94" alt="Typing SVG" />
 </p>
+
+
 
 <p align="center">
   ˙✧˖°📷 ༘ ⋆｡˚
