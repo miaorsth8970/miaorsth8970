@@ -1,16 +1,49 @@
-## Hi there 👋
+<h3 align="center">
+  <img src="https://i.pinimg.com/originals/f3/c4/27/f3c4273b0dd25581ec1f6d2442c5c2c3.gif" width="30">
+  <code>. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.</code>
+</h3>
 
-<!--
-**miaorsth8970/miaorsth8970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.pinimg.com/736x/ff/40/ca/ff40ca70d10b89a08a2901868487d3ab.jpg" width="100%">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Tangerine&size=55&duration=3500&pause=1200&color=83C0DF&center=true&vCenter=true&repeat=true&width=900&lines=past+or+future%2C+let+them+be" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  ˙✧˖°📷 ༘ ⋆｡˚
+</p>
+
+<p align="center">
+<a href="https://miaorsth8970.atabook.org">ata</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://guns.lol/miaorsth8970">guns</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a
+href="https://listography.com/0793121052">list</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<p align="center">
+
+<td valign="middle">
+
+<h3
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/0a/2c/0a/0a2c0a52a9e483f2ffcb98ea69fb1c52.jpg" width="100%">
+</p>
+</h3>
+
+
+<td valign="middle">
+
+
+<p align="center">
+⋆. 𐙚˚࿔ 𝜗𝜚˚⋆
+</p>
+
+<p align="center">
+______________________________
+</p>
+
+
+<p align="center">
+_____________________
+</p>
