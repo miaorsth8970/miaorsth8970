@@ -25,12 +25,6 @@ href="https://listography.com/0793121052">list</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <td valign="middle">
 
-<h3
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/0a/2c/0a/0a2c0a52a9e483f2ffcb98ea69fb1c52.jpg" width="100%">
-</p>
-</h3>
-
 
 <td valign="middle">
 
