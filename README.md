@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://i.pinimg.com/originals/f3/c4/27/f3c4273b0dd25581ec1f6d2442c5c2c3.gif" width="30">
+  <img src="https://i.pinimg.com/736x/f5/2a/0d/f52a0df39cfcfc4cd08ba196507888ed.jpg" width="30">
   <code>. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.</code>
 </h3>
 
